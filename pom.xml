@@ -4,7 +4,7 @@
 	<groupId>WordpressTest</groupId>
 	<artifactId>WordpressTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Login to skype</name>
+	<name>Login to wordpress</name>
 	<description>QA automatization shool. Homework for 3rd lesson</description>
 	<dependencies>
 		<dependency>
